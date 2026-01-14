@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nannbadd
-- 👀 I’m interested in anime, personal issues and learning.
-- 🌱 I’m currently learning frontend things..
+- 👀 I’m interested in traveling and learning, handy person. Curious to everything 
+- 🌱 I’m currently learning frontend things and qa stuff..
 - 📫 How to reach me: tg @baddvaya
 - ⚡ Fun fact: I love cheese
 
